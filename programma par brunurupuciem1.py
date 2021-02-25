@@ -99,7 +99,7 @@ if j==3: print("Malacis!")
 else: print("NÄ“! PareizÄ� atbilde ir 3. BruÅ†urupucim nav zobu .")
 if j==3:
     sum=sum+1    
-print("tavs rezultats -", sum)
-if sum<=3: print("Mēģini vēlreiz")
-elif 8>sum<=4: print("Tavas zināšanas ir videvējas, vēl jāatkarto zināšanas.")
+print("tavs rezultāts -", sum)
+if sum<=3: print("Mēģini vēlreiz!")
+elif 8>sum<=4: print("Tavas zināšanas ir viduvējas, vēl jāatkārto.")
 else: print("Malacis, tu esi gatavs uzņemties rūpes par bruņurupuci.")
